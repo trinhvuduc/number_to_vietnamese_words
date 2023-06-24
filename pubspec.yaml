@@ -1,6 +1,6 @@
 name: number_to_vietnamese_words
 description: Convert numbers to words for easy comprehension and readability in the Vietnamese language.
-version: 1.0.0
+version: 1.0.1
 repository: https://github.com/trinhvuduc/number_to_vietnamese_words
 
 environment:
